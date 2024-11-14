@@ -68,7 +68,7 @@ export default function RootLayout({
         {/* Footer */}
         <footer className="text-white p-2 mt-auto flex justify-center">
           <div className="bg-blue-600 border-solid border-blue-600 rounded-full max-w-max px-2 py-1 text-sm">
-            &copy; {new Date().getFullYear()} CS Solutions Sdn Bhd. All rights reserved.
+            &copy; {new Date().getFullYear()} CS Solutions. All rights reserved.
           </div>
         </footer>
       </body >
